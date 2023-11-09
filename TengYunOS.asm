@@ -1,4 +1,4 @@
-		ORG		0xc200			
+		ORG		0x7FFF		
 
 		MOV		AL,0x13			
 		MOV		AH,0x00
